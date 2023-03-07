@@ -1,1 +1,6 @@
-Testing git commands from git bash local to github repo
+Testing git commands from git bash local to github repo 
+
+command to commit changes
+1. git add .
+2. git commit -m "commit msg"
+3. git push
