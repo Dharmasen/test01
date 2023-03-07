@@ -1,6 +1,21 @@
 Testing git commands from git bash local to github repo 
 
-command to commit changes
+Command to commit changes
 1. git add .
 2. git commit -m "commit msg"
 3. git push
+
+Commands to check the branch
+1. git branch -r
+    -it will show list of branches in git
+2. git fetch
+    -it will fetch the all branch in repo and showing in git.
+3. git checkout tst_branch
+    -it will move one branch to another branch
+
+Commands for pull date from master
+1. git pull
+    -it pull the data from master or branch
+2. git rebase master
+    -above command add master data to local branch
+
